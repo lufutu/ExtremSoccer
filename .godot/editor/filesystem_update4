@@ -1,0 +1,4 @@
+res://scenes/world.tscn
+res://scenes/characters/player.tscn
+res://scenes/characters/player.gd
+res://utils/key_utils.gd
