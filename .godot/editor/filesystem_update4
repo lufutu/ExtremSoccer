@@ -6,3 +6,11 @@ res://scenes/characters/character_states/player_state_moving.gd
 res://scenes/characters/character_states/player_state_tackling.gd
 res://scenes/characters/player_state_factory.gd
 res://scenes/characters/character_states/player_state_recovering.gd
+res://scenes/ball.tscn
+res://scenes/ball/ball.tscn
+res://scenes/ball/ball.gd
+res://scenes/ball/ball_state.gd
+res://scenes/ball/ball_state_carried.gd
+res://ball_state_freeform.gd
+res://ball_state_shoot.gd
+res://ball_state_factory.gd
