@@ -1,4 +1,8 @@
 res://scenes/world.tscn
 res://scenes/characters/player.tscn
 res://scenes/characters/player.gd
-res://utils/key_utils.gd
+res://scenes/characters/character_states/player_state.gd
+res://scenes/characters/character_states/player_state_moving.gd
+res://scenes/characters/character_states/player_state_tackling.gd
+res://scenes/characters/player_state_factory.gd
+res://scenes/characters/character_states/player_state_recovering.gd
